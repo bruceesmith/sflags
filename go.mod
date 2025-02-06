@@ -1,4 +1,4 @@
-module github.com/urfave/sflags
+module github.com/bruceesmith/sflags
 
 go 1.21.5
 
