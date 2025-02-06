@@ -891,6 +891,9 @@
     "type": "HexBytes",
     "parser": "hex.DecodeString(s)",
     "format": "fmt.Sprintf(\"%x\", *v.value)",
+    "import": [
+      "encoding/hex"
+     ],
     "help": "Bytes as a hex string.",
     "tests": [
       {
