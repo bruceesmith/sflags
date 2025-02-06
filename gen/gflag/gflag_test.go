@@ -6,9 +6,9 @@ import (
 	"os"
 	"testing"
 
+	"github.com/bruceesmith/sflags"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
-	"github.com/urfave/sflags"
 )
 
 type cfg1 struct {

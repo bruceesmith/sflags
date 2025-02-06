@@ -8,7 +8,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/urfave/sflags/gen/gflag"
+	"github.com/bruceesmith/sflags/gen/gflag"
 )
 
 type httpConfig struct {

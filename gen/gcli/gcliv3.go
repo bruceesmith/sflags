@@ -2,7 +2,7 @@ package gcli
 
 import (
 	"github.com/urfave/cli/v3"
-	"github.com/urfave/sflags"
+	"github.com/bruceesmith/sflags"
 )
 
 type boolFlag interface {

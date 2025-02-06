@@ -11,7 +11,7 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 	"github.com/urfave/cli/v3"
-	"github.com/urfave/sflags"
+	"github.com/bruceesmith/sflags"
 )
 
 type cfg2 struct {

@@ -4,7 +4,7 @@ import (
 	"flag"
 	"os"
 
-	"github.com/urfave/sflags"
+	"github.com/bruceesmith/sflags"
 )
 
 // flagSet describes interface,

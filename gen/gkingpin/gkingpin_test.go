@@ -7,7 +7,7 @@ import (
 	"github.com/alecthomas/kingpin/v2"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
-	"github.com/urfave/sflags"
+	"github.com/bruceesmith/sflags"
 )
 
 type cfg1 struct {

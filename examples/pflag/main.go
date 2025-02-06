@@ -10,8 +10,8 @@ import (
 	"time"
 
 	"github.com/davecgh/go-spew/spew"
-	"github.com/urfave/sflags"
-	"github.com/urfave/sflags/gen/gpflag"
+	"github.com/bruceesmith/sflags"
+	"github.com/bruceesmith/sflags/gen/gpflag"
 )
 
 type httpConfig struct {

@@ -11,8 +11,8 @@ import (
 
 	"github.com/davecgh/go-spew/spew"
 	"github.com/urfave/cli/v2"
-	"github.com/urfave/sflags"
-	"github.com/urfave/sflags/gen/gcli"
+	"github.com/bruceesmith/sflags"
+	"github.com/bruceesmith/sflags/gen/gcli"
 )
 
 type httpConfig struct {

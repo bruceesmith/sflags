@@ -5,9 +5,9 @@ package main
 import (
 	"log"
 
-	"github.com/urfave/sflags"
-	"github.com/urfave/sflags/gen/gflag"
-	"github.com/urfave/sflags/validator/govalidator"
+	"github.com/bruceesmith/sflags"
+	"github.com/bruceesmith/sflags/gen/gflag"
+	"github.com/bruceesmith/sflags/validator/govalidator"
 )
 
 type config struct {

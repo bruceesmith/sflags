@@ -8,8 +8,8 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	"github.com/urfave/sflags"
-	"github.com/urfave/sflags/gen/gflag"
+	"github.com/bruceesmith/sflags"
+	"github.com/bruceesmith/sflags/gen/gflag"
 )
 
 func ExampleNew() {
